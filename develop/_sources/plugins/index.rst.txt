@@ -9,7 +9,7 @@
 Theforeman.Operations
 =====================
 
-Collection version 2.1.0
+Collection version 3.0.0
 
 .. contents::
    :local:
@@ -23,9 +23,11 @@ Foreman operations tasks such as install, upgrade and maintenance
 **Authors:**
 
 * Baptiste Agasse <bagasse@redhat.com>
+* Chris Roberts <chrobert@redhat.com>
 * Eric D. Helms <ericdhelms@gmail.com>
 * Evgeni Golov <evgeni@golov.de>
 * Ewoud Kohl van Wijngaarden <ewoud@kohlvanwijngaarden.nl>
+* Griffin Sullivan <Griffin-Sullivan@users.noreply.github.com>
 * Jeffrey van Pelt <jeff@vanpelt.one>
 * Jeremy Audet <audet.jeremy@pm.me>
 * Kyle Williams <kyle.williams@thetradedesk.com>
